@@ -1,5 +1,6 @@
 {
   "name": "bepark-test",
+    "homepage": "https://jiu.github.io/btest",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
