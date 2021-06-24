@@ -36,6 +36,7 @@ function ParkingDays() {
               item={item}
               switchFavorite={switchFavorite}
               deleteCard={deleteCard}
+              key={item.id}
             />
           ))}
         </>
